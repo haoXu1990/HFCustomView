@@ -1,0 +1,33 @@
+PODS:
+  - HFFoundation (0.0.1):
+    - HFFoundation/Category (= 0.0.1)
+    - HFFoundation/Controller (= 0.0.1)
+    - HFFoundation/Util (= 0.0.1)
+    - HFFoundation/View (= 0.0.1)
+  - HFFoundation/Category (0.0.1)
+  - HFFoundation/Controller (0.0.1)
+  - HFFoundation/Util (0.0.1)
+  - HFFoundation/View (0.0.1):
+    - HFFoundation/Category
+  - Masonry (1.1.0)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - HFFoundation (from `/Users/Henry/Documents/Develop/Project/HFFoundation`)
+  - Masonry
+  - SDWebImage (~> 3.8)
+
+EXTERNAL SOURCES:
+  HFFoundation:
+    :path: /Users/Henry/Documents/Develop/Project/HFFoundation
+
+SPEC CHECKSUMS:
+  HFFoundation: 6113d238401f1fe2887fbeb4f5dee45def033c13
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: 51d2677d620b335288f96bbe21e251ad289c6a06
+
+COCOAPODS: 1.4.0.beta.1
